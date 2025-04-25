@@ -13,14 +13,4 @@ Q: How do I download Lush?
 A: You don't yet, as it has yet to reach a state fit for publication.
 
 # Lush Components
-* Vine
-* Tokenizers:
-  * None Yet
-* Parsers:
-  * None Yet
-* Compiler
-  * None Yet
-* Validator
-  * None Yet
-* Cleaner
-  * None Yet
+* None Yet
