@@ -1,0 +1,16 @@
+1. Your Compilier, built upon the idea of seperated components
+    - Component 1. Your Lexer, takes your source code and outputs a massive .tok file
+    - Component 2. Your Parser, which takes the .tok and creates an AST represented as a .json file (Could be cool to bundle with a graph viewer)
+    - Component 3. Your Validator, makes sure your code adds up properly. 
+    - Component 4. Your Compilier, Pushes all into one executable using LLVM
+2. Code Cleaner, held to style guides defined by the user in a .lushstyle file
+3. Git
+4. Package Manager (Cultivate)
+    - Manages packages through github requests
+5. Enviorment Manager (LEM)
+6. Toolchain Manager (Vine)
+    - Goes through and runs each component of your compilier chain
+    - Manages your code cleaner
+    - All stored in a single .lushcfg file for each workspace, local user file, not source controlled
+
+Proto-Vine
