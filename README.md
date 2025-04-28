@@ -13,4 +13,4 @@ Q: How do I download Lush?
 A: You don't yet, as it has yet to reach a state fit for publication.
 
 # Lush Components
-* Tokenizers: https://github.com/MadenedDM/LushTokenizers
+* Lexers: https://github.com/MadenedDM/MeltLexers
